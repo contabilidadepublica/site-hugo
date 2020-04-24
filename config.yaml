@@ -1,0 +1,33 @@
+baseURL: https://contabilidadepublica.github.io/
+
+title: Contabilidade Pública
+defaultContentLanguage: pt_br
+
+params:
+  AuthorName: Everton da Rosa
+
+  #hugo-notepadium theme
+  style: "dark"
+  dateFormat: "Monday, 2 January 2006"
+  slogan: Notícias, ideias e material sobre Contabilidade Pública.
+  comments:
+    enable: false
+  math:
+    enable: true
+    use: katex
+  nav:
+    showCategories: true
+    showTags: true
+
+publishDir: "docs"
+buildDrafts: false
+buildFuture: false
+enableGitInfo: true
+
+googleAnalytics: ""
+
+# hugo-notepadium
+theme: "hugo-notepadium"
+copyright: "©2019 Everton da Rosa."
+languageCode: pt_br
+#disqusShortname: ""
