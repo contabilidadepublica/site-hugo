@@ -19,7 +19,7 @@ params:
     showCategories: true
     showTags: true
 
-publishDir: "docs"
+publishDir: "public"
 buildDrafts: false
 buildFuture: false
 enableGitInfo: true
