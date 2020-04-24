@@ -1,0 +1,14 @@
+baseURL = "https://contabilidadepublica.github.io/"
+title = "Contabilidade Pública"
+defaultContentLanguage = "pt_br"
+publishDir = "public"
+buildDrafts = false
+buildFuture = false
+enableGitInfo = true
+disqusShortname = "contabilidadepublica"
+googleAnalytics = "UA-164506183-1"
+theme = "hugo-notepadium"
+
+[params]
+AuthorName = "Everton da Rosa"
+

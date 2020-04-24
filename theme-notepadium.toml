@@ -1,0 +1,23 @@
+copyright = "©2019 Everton da Rosa."
+languageCode = "pt_br"
+
+[params]
+style = "dark"
+dateFormat = "Monday, 2 January 2006"
+slogan = "Notícias, ideias e material sobre Contabilidade Pública."
+logo = "caduceu.png"
+
+[params.comments]
+enable = true
+
+[params.math]
+enable = true
+use = "katex"
+
+[params.nav]
+showCategories = true
+showTags = true
+
+[[params.nav.custom]]
+title = "Sobre"
+url = "/paginas/sobre"

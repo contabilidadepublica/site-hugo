@@ -9,6 +9,8 @@ categories:
 tags:
 - teste
 - excluir
+
+cover: "caduceu.png"
 ---
 
 Hello world para [Contabilidade Pública](https://contabilidadepublica.github.io), por [Everton da Rosa](https://everton3x.github.io).

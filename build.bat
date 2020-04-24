@@ -1,0 +1,1 @@
+hugo --config config.toml,theme-notepadium.toml
