@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>opinião, on Contabilidade Pública</title>
+    <link>/tags/opini%C3%A3o/</link>
+    <description>Recent content in opinião, on Contabilidade Pública</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>©2019 Everton da Rosa.</copyright>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/opini%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contabilidade Pública ou CASP?</title>
+      <link>/blog/contabilidade-publica-ou-casp/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/contabilidade-publica-ou-casp/</guid>
+      <description>Trocar o termo Contabilidade Pública por Contabilidade Aplicada à Contabilidade Pública, embora pareça algo fundamental para a “nova contabilidade” que se está implantando ao setor público não passa de um golpe de marketing que, embora seja coroado de boa intenção, não vai trazer benefício algum.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

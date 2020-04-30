@@ -1,7 +1,7 @@
 baseURL = "https://contabilidadepublica.github.io/"
 title = "Contabilidade Pública"
 defaultContentLanguage = "pt_br"
-publishDir = "public"
+publishDir = "build"
 buildDrafts = false
 buildFuture = false
 enableGitInfo = true

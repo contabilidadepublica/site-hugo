@@ -1,0 +1,1 @@
+php -S localhost:1313 -t .\public

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contabilidade Pública</title>
+    <link>/</link>
+    <description>Recent content on Contabilidade Pública</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>©2019 Everton da Rosa.</copyright>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogs</title>
+      <link>/blog/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/sobre/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Contabilidade Pública é dedicado à disseminação de conteúdo sobre Contabilidade Pública (ou Contabilidade Aplicada ao Setor Público), principalmente artigos, pesquisas, normas e legislação, material, cursos e tudo o mais ligado à Contabilidade Pública.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,6 @@
 [submodule "themes/hugo-notepadium"]
 	path = themes/hugo-notepadium
 	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "public"]
+	path = public
+	url = https://github.com/contabilidadepublica/contabilidadepublica.github.io.git
