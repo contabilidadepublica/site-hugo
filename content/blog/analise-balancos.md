@@ -159,3 +159,210 @@ ou
 Os **índices de liquidez** informam a solvência sob diversos prismas.
 
 ###### Liquidez Imediata
+
+*LI = Disponibilidades / Passivo Circulante*
+
+Quanto maior, melhor.
+
+###### Liquidez Corrente ou Comum:
+
+*LC = Ativo Circulante / Passivo Circulante*
+
+Quanto maior, melhor.
+
+###### Liquidez Seca ou TEste Ácido, ou ainda, Liquidez Ácida
+
+*LS = (Ativo Circulante - Estoques) / Passivo Circulante*
+
+Quanto maior, melhor.
+
+###### Liquidez Geral
+
+*LG = (Ativo circulante + Ativo Realizável a Longo Prazo) / (Passivo circulante + Passivo Não Circulante)*
+
+Quanto maior, melhor.
+
+###### Solvência Geral
+
+*SG = Ativo Total / (Passivo Circulante + Passivo Não Circulante)*
+
+Quanto maior, melhor.
+
+#### Índices de Estrutura de Capital e Endividamento
+
+##### Endividamento Geral
+
+*EG = Passivo Exigível / Passivo Total*
+
+Quanto menor, melhor.
+
+##### Garantia de Capital de Terceiros
+
+*GCT = Patrimônio Lìquido / Passivo Exigível*
+
+Quanto maior, melhor.
+
+##### Recursos Correntes
+
+*RC = Passivo Circulante / Passivo Total*
+
+Quanto menor, melhor.
+
+##### Imobilização de Recursos Não Correntes
+
+*IRNC = Ativo Permanente / (Passivo Não circulante + Patrimônio Lìquido)*
+
+*IRNC = Ativo Permanente / (Passivo Total - Passivo Circulante)*
+
+*IRNC = Ativo Total / [(Passivo Exigível + Patrimônio Líquido) - Passivo Circulante]
+
+Quanto menor, melhor.
+
+##### Participação das Dívidas de Curto Prazo
+
+*PDCP = Passivo Circulante / Passivo Exigível*
+
+Quanto menor, melhor.
+
+##### Particiapção das Dívidas de Longo Prazo
+
+*PDLP = Passivo Nâo Circulante / Passivo Exigível*
+
+Quanto maior, melhor.
+
+##### Grau de Alavancagem Financeira
+
+Mede se o endividamento é favorável ou não para a empresa e se seria melhor ou não substituí-lo por capital próprio.
+
+*GAF = (Lucro Operacional / Patrimônio Líquido) / [(Lucro Operacional + Despesas Financeiras) / Ativo Total]*
+
+Se GAF > 1: favorável;
+
+Se GAF = 1: indiferente;
+
+Se GAF < 1: desfavorável.
+
+#### Índices sobre a Situação Econômica
+
+##### Margem Bruta
+
+*MB = Lucro Bruto / Vendas Líquidas*
+
+Quanto maior, melhor.
+
+##### Margem Líquida
+
+*ML = Lucro Líquido / Vendas Líquidas*
+
+Quanto maior, melhor.
+
+##### Margem Operacional
+
+*MO = Lucro Operacional / Vendas Líquidas*
+
+Quanto maior, melhor.
+
+##### Rentabilidade do Patrimônio Líquido ou Return on Equity
+
+*RPL/ROE = Lucro Líquido do Exercício / Patrimônio Líquido*
+
+Quanto maior, melhor.
+
+##### Rentabilidade do Investimento ou Return on Investiment
+
+*ROI = Lucro Líquido do Exercício / Ativo Total*
+
+Quanto maior, melhor.
+
+##### Rentabilidade do Ativo Operacional
+
+*RAO = Lucro Operacional / Ativo Operacional*
+
+Quanto maior, melhor.
+
+##### Prazo de Retorno Econômico do Capital Investido
+
+*PRE = Preço da Ação / Lucro por Ação*
+
+Quanto menor, melhor.
+
+##### Prazo de Retorno Financeiro do Capital Investido
+
+*PRF = Preço da Ação / Dividendo por Ação*
+
+Quanto menor, melhor.
+
+#### Índices sobre a situação Operacional
+
+##### Rotação ou Prazo Médio
+
+###### Giro dos Estoques
+
+*PME/GE = Custo da Mercadoria ou dos Produtos Vendidos / Estoque Médio*
+
+Onde o estoque médio pode ser obtido de uma das seguintes formas:
+
+- (Estoque Inicial + Estoque Final) / 2
+- Estoque final
+- Outra forma de apuração do estoque médio do período.
+
+Quanto maior, melhor.
+
+###### Prazo Médio dos Estoques
+
+*PME = 360 dias (ou 365 dias) / Giro do Estoque*
+
+Quanto menor, melhor.
+
+###### Giro dos Clientes ou das Contas a Receber
+
+*GC = Vendas a Prazo / Média do saldo da conta de clientes a receber*
+
+Quanto maior, melhor.
+
+###### Prazo Médio de Rotação de Clientes ou dos Clientes a Receber
+
+*PMC = 360 dias (ou 365 dias) / GC*
+
+Quanto menor, melhor.
+
+###### Giro dos Fornecedores ou dos Fornecedores a Pagar
+
+*GF = Compras a prazo / Média do saldo da conta de fornecedores a pagar*
+
+Quanto menor, melhor.
+
+###### Prazo Médio de Rotação de Fornecedores ou dos Fornecedores a Pagar
+
+*PMF = 360 dias (ou 365 dias) / GF*
+
+Quanto maior, melhor.
+
+###### Giro do Ativo
+
+*GA = Vendas Líquidas / Ativo Total*
+
+Quanto maior, melhor.
+
+###### Giro do Ativo Operacional
+
+*GAO = Vendas Líquidas / Ativo Operacional*
+
+Quanto maior, melhor.
+
+###### Giro ou Rotação do Patrimônio Líquido
+
+*GPL = Vendas Líquidas / Patrimônio Líquido*
+
+Quanto maior, melhor.
+
+###### Grau de Alavancagem Operacional
+
+*GAO = Variação do Lucro / Variação da Quantidade*
+
+Se GAO > 1, então as vendas podem aumentar sem comprometer a lucartividade (existe ociosidade da capacidade de atendimento da demanda).
+
+###### Grau de Alavancagem Combinada ou Composta
+
+*GAC = Grau de Alavancagem Financeira x Grau de alavancagem Operacional*
+
