@@ -366,3 +366,40 @@ Se GAO > 1, então as vendas podem aumentar sem comprometer a lucartividade (exi
 
 *GAC = Grau de Alavancagem Financeira x Grau de alavancagem Operacional*
 
+### Análise por meio de Indicadores
+
+#### Necessidade de Capital de Giro
+
+Para o cálculo deste indicador, é necessário reclassificar o ativo e o passivo em itens operacionais e financeiros. Assim, caixa, bancos, aplicações financeiras, empréstimos, duplicatas descontadas e outras operações financeiras não irão compor o ativo e passivo operacionais pois não têm relação com o negócio.
+
+O indicador da Necessidade de Capital de Giro demonstra se a operação da empresa está conseguindo autofinanciar-se.
+
+![](images/ncg.jpg "Ativo e Passivo Reclassficados para o cálculo da NCG")
+
+A Necessidade de Capital de giro leva em consideração se a própria operação é capaz de gerar o capital necessário para o negócio.
+
+*NCG = Ativo Circulante Operacional - Passivo Circulante Operacional*
+
+Então:
+
+- ACO > PCO: existe necessidade de capital de giro;
+- ACO = PCO: não há necessidade de capital de giro;
+- ACO < PCO: existe capital de giro excedente.
+
+#### Saldo em Tesouraria
+
+Apurado através da mesma reclassificação do ativo e passivo usada para a NCG.
+
+*ST = Ativo circulante Financeiro - Passivo circulante Financeiro*
+
+#### EBITDA
+
+Significa *Earning Before Interest, Taxes, Depreciation and Amortization*, em livre tradução, **Lucro antes dos juros, impostos e depreciação**, é um indicador global que analisa a empresa for do contexto local de inflação que influencia os juros praticados, a política de tributação e as sistemáticas de depreciação, possibilitando a comparação de empresas do mundo inteiro, dentro de um mesmo setor econômico.
+
+*EBITDA = Lucro Líquido + Despesas Financeiras + Depreciação + Imposto de Renda*
+
+alternativamente, podem ser somadas as perdas por equivalência, as perdas com ativos provisionados e outras despesas que não afetam efetivamente o caixa.
+
+## Bibliografia
+
+MONTOTO, Eugenio. **Contabilidade geral e avançada esquematizado** -- 5. ed. -- São Paulo: Saraiva Educação, 2018. (Coleção esquematizado / coordenador Pedro Lenza)
