@@ -14,6 +14,7 @@
   {{- $coreJS := slice $js ("" | resources.FromString "js/_core.js") | resources.Concat "js/core.js" -}}
   {{- $coreJS = $coreJS | resources.Minify | resources.Fingerprint "sha384" -}}
   <script src="{{- $coreJS.RelPermalink -}}" integrity="{{- $coreJS.Data.Integrity -}}"></script>
+  <script data-ad-client="ca-pub-1433079231555248" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 {{- end -}}
 
 {{- partial "js.html" . -}}
