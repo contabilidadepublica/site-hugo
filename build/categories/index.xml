@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt_br</language>
     <copyright>©2019 Everton da Rosa.</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Artigo</title>
       <link>/categories/artigo/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/artigo/</guid>
       <description></description>
@@ -25,7 +25,7 @@
     <item>
       <title>Resumo</title>
       <link>/categories/resumo/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/resumo/</guid>
       <description></description>
