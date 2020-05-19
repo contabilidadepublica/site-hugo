@@ -142,3 +142,7 @@ Tem por objetivos:
     - deixar de entregar aos municípios as receitas tributárias no prazo legal;
 - garantir o livre exercício de qualquer dos Poderes;
 - ofensa aos princípios constitucionais sensíveis (forma republicana, sistema representativo, regime democrático, direito da pessoa humana, autonomia municipal, prestação de contas da administração pública).
+
+![](/images/comparativo-estado-sitio-defesa.png "Comparativo entre Estado de Sítio e de Defesa")
+
+![](/images/comparativo-intervencao-federal.png "Comparativo entre as hipóteses de Intervenção Federal.")
