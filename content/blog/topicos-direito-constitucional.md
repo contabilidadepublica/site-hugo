@@ -1,6 +1,6 @@
 ---
 title: "Tópicos de Direito Constitucional"
-date: "2020-05-18"
+date: "2020-05-20"
 summary: "Tópicos de Direito Constitucional para saber no dia a dia."
 description: "Tópicos de Direito Constitucional para saber no dia a dia."
 categories:
@@ -146,3 +146,146 @@ Tem por objetivos:
 ![](/images/comparativo-estado-sitio-defesa.png "Comparativo entre Estado de Sítio e de Defesa")
 
 ![](/images/comparativo-intervencao-federal.png "Comparativo entre as hipóteses de Intervenção Federal.")
+
+# Poder Constituinte
+
+**É o poder de elaborar ou atualizar uma constituição.**
+
+**Titularidade**: povo ou nação.
+**Exercício**: por meio de representantes eleito ou diretamente, na forma prescrita.
+
+## Tipos de Poder Constituinte
+
+- **Originário, Primário ou de 1º Grau**: poder de elaborar uma nova constituição;
+- **Derivado, Secndário ou de 2º Grau**: poder de alterar e reformar a constituição.
+
+Enquanto a **reforma constitucional** altera o texto da constituição, as **mutações constitucionais** alteram a interpretação dada às disposições constitucionais sem, contudo, alterar-lhe o texto.
+
+## Características dos Poderes Constitucionais
+
+### Poder Originário
+
+- inicial;
+- autônomo;
+- ilimitado;
+- incondicionado;
+- poder de fato;
+- poder político;
+- permanente.
+
+### Poder Derivado
+
+- secundário;
+- dependente;
+- limitado;
+- condicionado;
+- poder jurídico.
+
+## Poder Constituinte Originário
+(Primário ou de 1º Grau)
+
+**Poder de elaborar uma nova constituição.**
+
+### Tipos
+- Histórico: quando o Estado é estruturado pela primeira vez;
+- Revolucinário: inaugura uma nova ordem constitucional (o Estado já estava organizado).
+
+### Formas de exercício
+- Movimento revolucionário: outorga;
+- Assembleia Nacional Constituinte: convenção, promulgação.
+
+### Características
+- Inicial: origina uma nova ordem constitucional;
+- Ilimitado: não se sujeita a limites materiais (qualquer assunto pode ser tratado);
+- Autônomo: não deriva de outra norma;
+- Incondicionado: não se sujeita a procedimentos pré-estabelecidos;
+- Permanente: se mantém latente, podendo ressurgir mesmo após a conclusão da constituição;
+- Poder político, poder de fato: irrompe de um movimento social em determinado momento histórico;
+- Natureza pré-jurídica: inaugura uma nova ordem jurídica, sendo anterior a ela.
+
+## Poder Constituinte Derivado
+(Instituído, Constituído, Secundário, de 2º Grau, Remanescente)
+
+**É o poder de alterar e reformar a constituição, sendo condicionado aos limites impostos pelo Poder Constituinte Originário.**
+
+### Modalidades
+
+- Reformador: pode alterar a constituição por procedimento próprio (emenda à constituição); deve respeitar as limitações do Poder Constituinte Originário, sejam elas formais (temporais, circunstanciais, procedimentais), sejam elas materiais (expressas ou implícitas);
+- Decorrente: poder jurídico, limitado pelo Poder Constituinte Originário, cuja função é estruturar a constituição dos estados-membros; pode ser inicial (1ª constituição) ou de revisão;
+- Revisor: vinculado aos termos estabelecidos pelo Poder Cosntituinte Originário; é um processo simplificado de alteração constitucional que não tem os mesmos requisitos aplicáveis às propostas de emendas à constituição.
+
+### Emendas à Constituição
+
+**Decorrem do Poder Constituinte Derivado Reformador.**
+
+#### Limitações
+
+- Materiais expressas: clásulas pétreas:
+    - forma federativa de estado;
+    - voto secreto, direto, universal e periódico;
+    - separação dos Poderes;
+    - direitos e garantias individuais.
+- Materiais implícitas:
+    - titularidade do Poder Constituinte Derivado;
+    - procedimento de emendas à constituição;
+    - princípios fundamentais;
+    - distribuição de competências entre os entes da federação.
+- Procedimentais: regras para criação de emendas à constituição.
+- Circunstanciais: em circunstâncias excepcionais de anormalidade política não podem ocorrer emendas à constituição.
+- Temporais: não podem ser reapresentadas emendas rejeitadas na mesma sessão legislativa.
+
+# Processo Legislativo
+
+**Conjunto ordenado de disposições que disciplinam o procedimento a ser obedecido pelos órgãos competentes na produção de leis e atos normativos que derivam imediatamente da própria constituição.**
+
+## Espécies normativas
+
+- emenda à constituição (EC);
+- lei complementar (LC);
+- lei ordinária (LO);
+- lei delegada (LD);
+- medida provisária (MP);
+- decreto legislativo (DL);
+- Resolução (R);
+
+## Medida Provisória
+
+Por ser uma medida excepcional, éreservada para casos de relevância e urgência, de iniciativa do Presidente, tem força de lei e deve ser imediatamente submetida ao Congresso para apreciação.
+
+Se a MP for rejeitada pelo Congresso:
+
+- rejeição tácita: a MP vence sem ter sido votada;
+- rejeição expressa: a MP é rejeitada pelo congresso;
+
+É vedada a reedição de MP rejeitada na mesma sessão legislativa.
+
+### Consequências da rejeição tácita ou explícita
+
+- decreto legislativo do Congresso disciplinando as relações jurídicas consolidadas;
+- se não houver o decreto legislativo, as relações jurídicas consolidadas permanecem reguladas pela MP.
+
+### Matérias vetadas em MP
+
+- nacionalidade, cidadania, direitos políticos, direito eleitoral;
+- direito penal, processuais penal e civil;
+- organização do Judiciário e do Ministério Público, carreira e garantias de seus membros;
+- PPA, LDO, LOA, créditos adicionais, exceto os extraordinários;
+- detenção ou sequestro de bens, poupança ou outro ativo financeiro;
+- matéria reservada a lei complementar;
+- matéria já aprovada em projeto de lei ainda não sancionado.
+
+A **validade** das MP é de 60 dias, prorrogável uma única vez por igual período.
+
+O Executivo não pode retirar a MP, mas pode editar nova MP revogando a anterior.
+
+A MP pode sofrer controle de constitucionalidade concentrado (STF) e difuso ou incidental (no curso de processos em instâncias inferiores).
+
+### Processo de conversão da MP em lei
+
+- parecer prévio de comissão mista;
+- deliberação separada, primeiro na Câmara dos Deputados, depois no Senado;
+- quórum de maioria simples (50% + 1 dos presentes);
+- deliberação do mérito em separado, após avaliação prévia da constitucionalidade;
+- se aprovado texto diferente do original, o texto original vigora até o veto ou sanção presidencial;
+- se não for votada até 45 dias da publicação, tranca a pauta da casa legislativa em que estiver em votação, entrando em caráter de urgência.
+
